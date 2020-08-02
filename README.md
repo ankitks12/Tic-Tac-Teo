@@ -1,4 +1,4 @@
-##A simple tic-tac-toe game that:
+## A simple tic-tac-toe game that:
 
 - Lets you play tic-tac-toe,
 - Indicates when a player has won the game,
